@@ -11,4 +11,12 @@ public class FirstLessonTest {
     assertEquals(42, Integer.sum(19, 23));
   }
 
+  @Test
+  public void collectMetricsFromWatch_saveMetrics() {
+
+    
+
+
+  }
+
 }
